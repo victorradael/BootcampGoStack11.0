@@ -1,19 +1,21 @@
-## Available Scripts
+<div style="text-align: center">
 
-In the project directory, you can run:
+![alt](./src/assets/logo.svg)
 
-### `yarn start`
+![alt](https://img.shields.io/badge/node-v12.16.2-black.svg)
+![alt](https://img.shields.io/badge/react-16.13.1v-black.svg)
+![alt](https://img.shields.io/badge/typescript-~3.7.2-black.svg)
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+---
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+### Project developed during the **GoStack Bootcamp** minitrated by **Rocketseat**.
 
-### `yarn build`
+![alt](./src/assets/ex.png)
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+This project uses the **Github API** to search and store repositories in _localstorage_.
+
+![Generic badge](https://img.shields.io/badge/license-MIT-black.svg)
+
+</div>
